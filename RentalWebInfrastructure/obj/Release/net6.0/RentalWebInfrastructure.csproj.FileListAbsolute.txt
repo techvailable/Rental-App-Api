@@ -1,0 +1,14 @@
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\bin\Release\net6.0\RentalWebInfrastructure.deps.json
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\bin\Release\net6.0\RentalWebInfrastructure.runtimeconfig.json
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\bin\Release\net6.0\RentalWebInfrastructure.dll
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\bin\Release\net6.0\ref\RentalWebInfrastructure.dll
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\bin\Release\net6.0\RentalWebInfrastructure.pdb
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Release\net6.0\RentalWebInfrastructure.csproj.AssemblyReference.cache
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Release\net6.0\RentalWebInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Release\net6.0\RentalWebInfrastructure.AssemblyInfoInputs.cache
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Release\net6.0\RentalWebInfrastructure.AssemblyInfo.cs
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Release\net6.0\RentalWebInfrastructure.csproj.CoreCompileInputs.cache
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Release\net6.0\RentalWebInfrastructure.dll
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Release\net6.0\ref\RentalWebInfrastructure.dll
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Release\net6.0\RentalWebInfrastructure.pdb
+D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Release\net6.0\RentalWebInfrastructure.genruntimeconfig.cache

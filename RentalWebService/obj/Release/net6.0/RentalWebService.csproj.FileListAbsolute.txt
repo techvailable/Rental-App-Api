@@ -1,0 +1,15 @@
+D:\MyProjects\RentalWebAppApi\RentalWebService\bin\Release\net6.0\RentalWebService.deps.json
+D:\MyProjects\RentalWebAppApi\RentalWebService\bin\Release\net6.0\RentalWebService.dll
+D:\MyProjects\RentalWebAppApi\RentalWebService\bin\Release\net6.0\ref\RentalWebService.dll
+D:\MyProjects\RentalWebAppApi\RentalWebService\bin\Release\net6.0\RentalWebService.pdb
+D:\MyProjects\RentalWebAppApi\RentalWebService\bin\Release\net6.0\RentalWebInfrastructure.dll
+D:\MyProjects\RentalWebAppApi\RentalWebService\bin\Release\net6.0\RentalWebInfrastructure.pdb
+D:\MyProjects\RentalWebAppApi\RentalWebService\obj\Release\net6.0\RentalWebService.csproj.AssemblyReference.cache
+D:\MyProjects\RentalWebAppApi\RentalWebService\obj\Release\net6.0\RentalWebService.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\RentalWebAppApi\RentalWebService\obj\Release\net6.0\RentalWebService.AssemblyInfoInputs.cache
+D:\MyProjects\RentalWebAppApi\RentalWebService\obj\Release\net6.0\RentalWebService.AssemblyInfo.cs
+D:\MyProjects\RentalWebAppApi\RentalWebService\obj\Release\net6.0\RentalWebService.csproj.CoreCompileInputs.cache
+D:\MyProjects\RentalWebAppApi\RentalWebService\obj\Release\net6.0\RentalWebService.csproj.CopyComplete
+D:\MyProjects\RentalWebAppApi\RentalWebService\obj\Release\net6.0\RentalWebService.dll
+D:\MyProjects\RentalWebAppApi\RentalWebService\obj\Release\net6.0\ref\RentalWebService.dll
+D:\MyProjects\RentalWebAppApi\RentalWebService\obj\Release\net6.0\RentalWebService.pdb

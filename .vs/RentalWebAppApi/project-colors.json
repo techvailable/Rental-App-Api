@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "addc1c89-dc9d-4217-8bfa-fab6717e3528": {
+      "ProjectGuid": "addc1c89-dc9d-4217-8bfa-fab6717e3528",
+      "DisplayName": "RentalWebAppApi",
+      "ColorIndex": 0
+    },
+    "df980c8d-e1e2-4335-b15f-00f5d17bbc51": {
+      "ProjectGuid": "df980c8d-e1e2-4335-b15f-00f5d17bbc51",
+      "DisplayName": "RentalWebService",
+      "ColorIndex": 1
+    },
+    "45103279-6163-45ca-9faf-0f8426cc7232": {
+      "ProjectGuid": "45103279-6163-45ca-9faf-0f8426cc7232",
+      "DisplayName": "RentalWebInfrastructure",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
