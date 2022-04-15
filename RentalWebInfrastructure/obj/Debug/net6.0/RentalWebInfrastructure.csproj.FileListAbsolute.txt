@@ -12,7 +12,6 @@ D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\RentalWeb
 D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\ref\RentalWebInfrastructure.dll
 D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\RentalWebInfrastructure.pdb
 D:\MyProjects\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\RentalWebInfrastructure.genruntimeconfig.cache
-G:\Shahbaz1\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\RentalWebInfrastructure.csproj.AssemblyReference.cache
 G:\Shahbaz1\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\RentalWebInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
 G:\Shahbaz1\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\RentalWebInfrastructure.AssemblyInfoInputs.cache
 G:\Shahbaz1\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\RentalWebInfrastructure.AssemblyInfo.cs

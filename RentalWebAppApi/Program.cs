@@ -61,6 +61,16 @@ builder.Services.AddScoped<IUserRoleService, UserRoleService>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<IProcedureService, ProcedureService>();
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy",
+        builder => builder.AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader());
+            // .WithHeaders("X-Pagination", "accept", "content-type", "origin")
+           // .WithExposedHeaders("X-Pagination"));//
+    // .AllowCredentials()
+});
 
 var app = builder.Build();
 
@@ -76,12 +86,19 @@ app.UseStaticFiles(new StaticFileOptions
     RequestPath = "/Images",
 });
 app.UseHttpsRedirection();
-app.UseCors(x => x
-        .AllowAnyOrigin()
-        .AllowAnyMethod()
-        .AllowAnyHeader()); ;
+//app.UseCors(x => x
+//        .AllowAnyOrigin()
+//        .AllowAnyMethod()
+//        .AllowAnyHeader()); ;
+
+
+app.UseCors("CorsPolicy");
+
 app.UseAuthorization();
+
 app.UseSwagger(x => x.SerializeAsV2 = true);
+
+
 app.MapControllers();
 
 app.Run();
