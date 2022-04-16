@@ -2,6 +2,7 @@
 using RentalWebInfrastructure.Infrastructure;
 using RentalWebService.DTOs;
 using RentalWebService.IServices;
+using System;
 
 namespace RentalWebService.Services
 {
@@ -58,7 +59,7 @@ namespace RentalWebService.Services
                     return new ResponseDto { Status = false, Message = "Data doesn't exists" };
                 category.Name = categoryDto.Name;
                 category.Description = categoryDto.Description;
-                category.StoreId = categoryDto.StoreId;
+                category.StoreId = (long)categoryDto.StoreId;
                 category.ModifiedAt = DateTime.UtcNow;
                 await unitOfWork.SaveChangesAsync();
                 var response = new ResponseDto

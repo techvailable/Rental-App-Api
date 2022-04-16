@@ -8,6 +8,6 @@ namespace RentalWebService.DTOs
         public Int64? StoreId { get; set; }
         public string Name { get; set; }
         public string? Description { get; set; }
-        public Store? Store { get; set; }
+        public StoreDto? Store { get; set; }
     }
 }
