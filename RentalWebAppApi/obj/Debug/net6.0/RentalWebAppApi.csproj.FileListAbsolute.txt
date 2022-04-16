@@ -71,7 +71,6 @@ G:\Shahbaz1\RentalWebAppApi\RentalWebAppApi\obj\Debug\net6.0\RentalWebAppApi.Gen
 G:\Shahbaz1\RentalWebAppApi\RentalWebAppApi\obj\Debug\net6.0\RentalWebAppApi.AssemblyInfoInputs.cache
 G:\Shahbaz1\RentalWebAppApi\RentalWebAppApi\obj\Debug\net6.0\RentalWebAppApi.AssemblyInfo.cs
 G:\Shahbaz1\RentalWebAppApi\RentalWebAppApi\obj\Debug\net6.0\RentalWebAppApi.csproj.CoreCompileInputs.cache
-G:\Shahbaz1\RentalWebAppApi\RentalWebAppApi\obj\Debug\net6.0\RentalWebAppApi.MvcApplicationPartsAssemblyInfo.cs
 G:\Shahbaz1\RentalWebAppApi\RentalWebAppApi\obj\Debug\net6.0\RentalWebAppApi.MvcApplicationPartsAssemblyInfo.cache
 G:\Shahbaz1\RentalWebAppApi\RentalWebAppApi\obj\Debug\net6.0\RentalWebAppApi.dll
 G:\Shahbaz1\RentalWebAppApi\RentalWebAppApi\obj\Debug\net6.0\ref\RentalWebAppApi.dll

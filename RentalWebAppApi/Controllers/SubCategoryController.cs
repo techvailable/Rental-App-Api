@@ -1,4 +1,5 @@
 ﻿
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using RentalWebAppApi.Exceptions;
 using RentalWebAppApi.Models;
@@ -8,6 +9,7 @@ using RentalWebService.IServices;
 namespace RentalWebAppApi.Controllers
 {
     [ApiController]
+    [EnableCors("CorsPolicy")]
     public class SubCategoryController : PrivateController
     {
         private readonly ISubCategoryService subCategoryService;

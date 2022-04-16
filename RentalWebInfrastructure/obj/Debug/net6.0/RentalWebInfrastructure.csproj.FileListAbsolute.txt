@@ -25,3 +25,4 @@ G:\Shahbaz1\RentalWebAppApi\RentalWebInfrastructure\bin\Debug\net6.0\RentalWebIn
 G:\Shahbaz1\RentalWebAppApi\RentalWebInfrastructure\bin\Debug\net6.0\ref\RentalWebInfrastructure.dll
 G:\Shahbaz1\RentalWebAppApi\RentalWebInfrastructure\bin\Debug\net6.0\RentalWebInfrastructure.pdb
 G:\Shahbaz1\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\RentalWebInfrastructure.genruntimeconfig.cache
+G:\Shahbaz1\RentalWebAppApi\RentalWebInfrastructure\obj\Debug\net6.0\RentalWebInfrastructure.csproj.AssemblyReference.cache
