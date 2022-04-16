@@ -9,5 +9,7 @@ namespace RentalWebService.DTOs
         public string Name { get; set; }
         public string? Description { get; set; }
         public StoreDto? Store { get; set; }
+
+        
     }
 }

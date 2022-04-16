@@ -10,5 +10,6 @@ namespace RentalWebService.DTOs
         public DateTime? CreatedAt { get; set; }
         public int? ModifiedBy { get; set; }
         public DateTime? ModifiedAt { get; set; }
+        public bool Active { get; set; }
     }
 }
