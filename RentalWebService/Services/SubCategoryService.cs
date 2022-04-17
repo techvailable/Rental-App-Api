@@ -53,7 +53,7 @@ namespace RentalWebService.Services
         {
             try
             {
-                SubCategory subCategory = await unitOfWork.SubCategoryRepository.GetByIdAsync(subCategoryDto.Id);
+                SubCategory subCategory = await unitOfWork.SubCategoryRepository.GetByIdAsync((long)subCategoryDto.Id);
                 if (subCategory == null)
                     return new ResponseDto { Status = false, Message = "Data doesn't exists" };
                 subCategory.Name = subCategoryDto.Name;

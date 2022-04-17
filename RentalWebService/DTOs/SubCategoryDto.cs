@@ -2,7 +2,7 @@
 {
     public class SubCategoryDto : Dto
     {
-        public Int64 Id { get; set; }
+        public Int64? Id { get; set; }
         public Int64 CategoryId { get; set; }
         public string? CategoryName { get; set; }
         public string Name { get; set; }
